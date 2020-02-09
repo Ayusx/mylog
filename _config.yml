@@ -28,7 +28,7 @@ twitter_username: ayusx
 github_username:  ayusx
 
 # Build settings
-theme: jekyll-theme-architect
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 
